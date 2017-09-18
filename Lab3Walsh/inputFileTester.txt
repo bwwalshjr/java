@@ -1,0 +1,4 @@
+brianwalsh,35,40,yes
+ariellarichmond,60,120,no
+leonardodicaprio,45,10,no
+shakira,10,60,yes
